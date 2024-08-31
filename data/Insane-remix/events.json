@@ -1,0 +1,1246 @@
+{
+	"song": {
+		"events": [
+			[
+				1542.85714285714,
+				[
+					[
+						"lyrics",
+						"Soy el cazador",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				2914.28571428571,
+				[
+					[
+						"lyrics",
+						"trae el arma",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				4285.71428571429,
+				[
+					[
+						"lyrics",
+						"esa gran arma",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				5314.28571428571,
+				[
+					[
+						"lyrics",
+						"soy tirador de una",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				7028.57142857143,
+				[
+					[
+						"lyrics",
+						"yo consigo dinero",
+						"9C0000"
+					]
+				]
+			],
+			[
+				8400,
+				[
+					[
+						"lyrics",
+						"No es divertido",
+						"9C0000"
+					]
+				]
+			],
+			[
+				9771.42857142857,
+				[
+					[
+						"lyrics",
+						"eres un tonto",
+						"9C0000"
+					]
+				]
+			],
+			[
+				10971.4285714286,
+				[
+					[
+						"Chromatic Shader Tween",
+						"1.0",
+						"1.03"
+					],
+					[
+						"lyrics",
+						"¡Intenta convertirte en mí!",
+						"9C0000"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Add Glitch Shader",
+						"",
+						""
+					],
+					[
+						"Set Camera Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				12342.8571428571,
+				[
+					[
+						"Remove Glitch Shader",
+						"",
+						""
+					],
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12514.2857142857,
+				[
+					[
+						"lyrics",
+						"soy lo mejor",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				12857.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13371.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"¿Me pruebas? ¡Te Destruire!",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14228.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14742.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"Estoy sacando las rimas",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				15085.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15600,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16114.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"La mierda está a punto de encenderse",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				16457.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16971.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17485.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"VAMOS!",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				17828.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"lyrics",
+						"Te tengo estresado",
+						"9C0000"
+					]
+				]
+			],
+			[
+				18342.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18857.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"Con fluidez y delicadeza",
+						"9C0000"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19714.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20228.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"Dale un descanso a mi polla gorda",
+						"9C0000"
+					]
+				]
+			],
+			[
+				20571.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21085.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21428.5714285714,
+				[
+					[
+						"lyrics",
+						"Pondré ese culo a prueba.",
+						"9C0000"
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21942.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22457.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22971.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"vamos",
+						"9C0000"
+					]
+				]
+			],
+			[
+				23314.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23314.2857142857,
+				[
+					[
+						"lyrics",
+						"tu y tu novia",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				23828.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24342.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"Perturbando mi flow",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				24685.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25714.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"si tu cuerpo golpea el suelo",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				26057.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26571.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26914.2857142857,
+				[
+					[
+						"lyrics",
+						"recojo el dinero de su papá.",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				27085.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27428.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27942.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28457.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"¿Sabes?",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"lyrics",
+						"Bro, corta ya",
+						"9C0000"
+					]
+				]
+			],
+			[
+				29314.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29828.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"sé lo que valgo",
+						"9C0000"
+					]
+				]
+			],
+			[
+				30171.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30685.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"He sido así desde mi nacimiento.",
+						"9C0000"
+					]
+				]
+			],
+			[
+				31542.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32057.1428571428,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32400,
+				[
+					[
+						"lyrics",
+						"Y todavía estoy caminando por la tierra",
+						"9C0000"
+					]
+				]
+			],
+			[
+				32571.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32914.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33428.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33942.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"Sabes?",
+						"9C0000"
+					]
+				]
+			],
+			[
+				34285.7142857143,
+				[
+					[
+						"lyrics",
+						"una Bala en tu cabeza",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				35142.8571428571,
+				[
+					[
+						"lyrics",
+						"Es lo que quiero yo poner",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				36514.2857142857,
+				[
+					[
+						"lyrics",
+						"Estoy a punto de llenarte el culo con plomo.",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				37885.7142857143,
+				[
+					[
+						"lyrics",
+						"Y te daran por muerto",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				39257.1428571429,
+				[
+					[
+						"lyrics",
+						"estoy cantando",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				39771.4285714286,
+				[
+					[
+						"lyrics",
+						"Recompensa por mi cabeza",
+						"9C0000"
+					]
+				]
+			],
+			[
+				40628.5714285714,
+				[
+					[
+						"lyrics",
+						"Es lo unico que yo escuché",
+						"9C0000"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"lyrics",
+						"Perra, no escuché lo que dijiste.",
+						"9C0000"
+					]
+				]
+			],
+			[
+				43371.4285714286,
+				[
+					[
+						"lyrics",
+						"estoy con mi chica arriba en la cama",
+						"9C0000"
+					]
+				]
+			],
+			[
+				44742.8571428572,
+				[
+					[
+						"lyrics",
+						"¡Ella grita!",
+						"9C0000"
+					]
+				]
+			],
+			[
+				45257.1428571429,
+				[
+					[
+						"lyrics",
+						"Esta noche en la Ciudad",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				46114.2857142857,
+				[
+					[
+						"lyrics",
+						"Estoy pensando que esta mierda es \nagradable en la Ciudad.",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				47485.7142857143,
+				[
+					[
+						"lyrics",
+						"Mi objetivo justo delante mio",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				48857.1428571429,
+				[
+					[
+						"lyrics",
+						"Mi pequeña a punto de disparar",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				50228.5714285714,
+				[
+					[
+						"lyrics",
+						"estoy cantando",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				50742.8571428572,
+				[
+					[
+						"lyrics",
+						"Esta noche en la ciudad",
+						"9C0000"
+					]
+				]
+			],
+			[
+				51600,
+				[
+					[
+						"lyrics",
+						"Estoy pensando que esta mierda es \nagradable en la ciudad.",
+						"9C0000"
+					]
+				]
+			],
+			[
+				52971.4285714286,
+				[
+					[
+						"lyrics",
+						"Así que si quieres tirar los dados",
+						"9C0000"
+					]
+				]
+			],
+			[
+				54342.8571428572,
+				[
+					[
+						"lyrics",
+						"Sólo sigue adelante, estoy frío como el hielo.",
+						"9C0000"
+					]
+				]
+			],
+			[
+				55714.2857142857,
+				[
+					[
+						"lyrics",
+						"estoy cantando",
+						"9C0000"
+					]
+				]
+			],
+			[
+				56228.5714285714,
+				[
+					[
+						"lyrics",
+						"Perra, no soy yo",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				57085.7142857143,
+				[
+					[
+						"lyrics",
+						"Si me jodes, será mejor que corras",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				58628.5714285714,
+				[
+					[
+						"lyrics",
+						"Porque el último que lo intento.",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				59828.5714285714,
+				[
+					[
+						"lyrics",
+						"Se encontró con el cañón de mi arma.",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				61371.4285714286,
+				[
+					[
+						"lyrics",
+						"Escucha bien",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				61714.2857142857,
+				[
+					[
+						"lyrics",
+						"Perra, follo con demonios",
+						"9C0000"
+					]
+				]
+			],
+			[
+				62914.2857142857,
+				[
+					[
+						"lyrics",
+						"A esa perra la domino con semen",
+						"9C0000"
+					]
+				]
+			],
+			[
+				64114.2857142857,
+				[
+					[
+						"GF Philly Nice Reaction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64200,
+				[
+					[
+						"Play Animation",
+						"sad",
+						"gf"
+					]
+				]
+			],
+			[
+				64285.7142857143,
+				[
+					[
+						"lyrics",
+						"Solo Escucha como gime",
+						"9C0000"
+					]
+				]
+			],
+			[
+				65657.1428571429,
+				[
+					[
+						"lyrics",
+						"Así que parece que gane",
+						"9C0000"
+					]
+				]
+			],
+			[
+				66857.1428571429,
+				[
+					[
+						"lyrics",
+						"¡Intentar otra vez!",
+						"9C0000"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"lyrics",
+						"Estoy Cansado de tus mierdas",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				68228.5714285714,
+				[
+					[
+						"lyrics",
+						"Cansado de oirte hablar de tu polla",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"lyrics",
+						"Actuas como un maldito idiota",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				70971.4285714286,
+				[
+					[
+						"lyrics",
+						"Apretare el gatillo, acabare rápido",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				72171.4285714286,
+				[
+					[
+						"lyrics",
+						"¡Me das asco!",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				72685.7142857143,
+				[
+					[
+						"lyrics",
+						"Todos ustedes ya saben \n¿Quién va a ganar?",
+						"9C0000"
+					]
+				]
+			],
+			[
+				73714.2857142857,
+				[
+					[
+						"lyrics",
+						"No soportaste mi flow",
+						"9C0000"
+					]
+				]
+			],
+			[
+				74914.2857142857,
+				[
+					[
+						"lyrics",
+						"ahora te quedaste como un poster",
+						"9C0000"
+					]
+				]
+			],
+			[
+				76457.1428571428,
+				[
+					[
+						"lyrics",
+						"ahora sigue mi",
+						"9C0000"
+					]
+				]
+			],
+			[
+				77485.7142857143,
+				[
+					[
+						"lyrics",
+						"Ho-o-o-o~",
+						"9C0000"
+					]
+				]
+			],
+			[
+				78171.4285714285,
+				[
+					[
+						"lyrics",
+						"Esta noche en la ciudad",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				79028.5714285714,
+				[
+					[
+						"lyrics",
+						"Estoy pensando que esta mierda es \nagradable",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"lyrics",
+						"Mi objetivo justo delante mio",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				81771.4285714285,
+				[
+					[
+						"lyrics",
+						"Mi chica a punto de disparar",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				83142.8571428571,
+				[
+					[
+						"lyrics",
+						"estoy cantando",
+						"64BDFF"
+					]
+				]
+			],
+			[
+				83657.1428571428,
+				[
+					[
+						"lyrics",
+						"Esta noche en la ciudad",
+						"9C0000"
+					]
+				]
+			],
+			[
+				84514.2857142857,
+				[
+					[
+						"lyrics",
+						"Estoy pensando que esta mierda es agradable",
+						"9C0000"
+					]
+				]
+			],
+			[
+				85885.7142857142,
+				[
+					[
+						"lyrics",
+						"Así que si quieres tirar los dados",
+						"9C0000"
+					]
+				]
+			],
+			[
+				87257.1428571428,
+				[
+					[
+						"lyrics",
+						"Sólo sigue adelante, estoy frío como el hielo",
+						"9C0000"
+					]
+				]
+			],
+			[
+				88628.5714285713,
+				[
+					[
+						"lyrics",
+						"¡Estoy cantando ahora!",
+						"9C0000"
+					]
+				]
+			]
+		]
+	}
+}

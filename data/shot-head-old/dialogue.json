@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "XDDD",
+			"text": "ufff un descanso me vendria bien",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixD"
+		},
+		{
+			"expression": "laughC",
+			"text": "JAJAAJAJAJ",
+			"boxState": "angry",
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayod"
+		},
+		{
+			"expression": "serius",
+			"text": "sabia que llegaria este momento",
+			"boxState": "normal",
+			"sound": "namy",
+			"speed": 0.05,
+			"portrait": "namyD"
+		},
+		{
+			"expression": "talk2",
+			"text": "ve esta perra como no se trago ni un tiro",
+			"boxState": "angry",
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayoD"
+		},
+		{
+			"expression": "serius",
+			"text": "la verdad sabia q harias algo asi",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixD"
+		},
+		{
+			"expression": "serius",
+			"text": "la verdad no se como sigo vivo....",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixD"
+		},
+		{
+			"expression": "respiro",
+			"text": ".....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rayoD"
+		},
+		{
+			"expression": "serius",
+			"text": "quieres seguir o prefieres irte con un 2 a 0",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixD"
+		},
+		{
+			"expression": "gun",
+			"text": "soy como la OTAN, yo nunca pierdo y lo sabes",
+			"boxState": "normal",
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayoD"
+		},
+		{
+			"expression": "asco",
+			"text": "simplemente rindete y acabemos con esto",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixD"
+		},
+		{
+			"expression": "talk2",
+			"text": "entiende que jamas me voy a rendir hasta verte muerto en el suelo con un balazo en la traquea",
+			"boxState": "angry",
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayoD"
+		},
+		{
+			"expression": "confused",
+			"text": "sigo sin entender como una simple batalla acabo asi",
+			"boxState": "normal",
+			"sound": "namy",
+			"speed": 0.05,
+			"portrait": "namyd"
+		}
+	]
+}

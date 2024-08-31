@@ -1,0 +1,1216 @@
+{
+	"song": {
+		"events": [
+			[
+				6400,
+				[
+					[
+						"lyrics",
+						"El mes espeluznante está aquí, es hora \nde dar una gran alegría",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				9200,
+				[
+					[
+						"lyrics",
+						"A-HA!",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"lyrics",
+						"El mes espeluznante está aquí, \nes hora de aumentar el miedo",
+						"9B0000"
+					]
+				]
+			],
+			[
+				12400,
+				[
+					[
+						"lyrics",
+						"BA-HA!",
+						"9B0000"
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"lyrics",
+						"Ahora es el momento de truco o trato",
+						"787878"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"lyrics",
+						"Muchos dulces nuevos para comer, ¡SÍ!",
+						"787878"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"lyrics",
+						"Ahora que es el momento de truco o trato",
+						"9B0000"
+					]
+				]
+			],
+			[
+				17600,
+				[
+					[
+						"lyrics",
+						"¡LOS MONSTRUOS ESTÁN CAZANDO PARA COMER!",
+						"9B0000"
+					],
+					[
+						"Zoom Camera",
+						"0.1",
+						"2.5"
+					]
+				]
+			],
+			[
+				18800,
+				[
+					[
+						"Second Lyric Line",
+						"Acechando esta noche",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				19600,
+				[
+					[
+						"Zoom Camera",
+						"0",
+						"2.5"
+					],
+					[
+						"Clear lyrics",
+						"9B0000",
+						""
+					],
+					[
+						"Clear lyrics",
+						"FF7B2F",
+						""
+					],
+					[
+						"lyrics",
+						"Acechando esta noche",
+						"FF7B2F"
+					],
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"787878"
+					]
+				]
+			],
+			[
+				20800,
+				[
+					[
+						"lyrics",
+						"¡Siente el susto!",
+						"FF7B2F"
+					],
+					[
+						"Clear lyrics",
+						"787878",
+						""
+					]
+				]
+			],
+			[
+				21200,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"787878"
+					]
+				]
+			],
+			[
+				21800,
+				[
+					[
+						"Clear lyrics",
+						"787878",
+						""
+					],
+					[
+						"lyrics",
+						"Porque es un robo de dulces",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				22800,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"787878"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Clear lyrics",
+						"787878",
+						""
+					],
+					[
+						"lyrics",
+						"¡Toma un mordisco!",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				24400,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"787878"
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"Second Lyric Line",
+						"A-HA!",
+						"FF7B2F"
+					],
+					[
+						"lyrics",
+						"¿Quién apagó la luz?",
+						"9B0000"
+					]
+				]
+			],
+			[
+				26000,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				27200,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"9B0000"
+					],
+					[
+						"lyrics",
+						"Siente el susto",
+						"9B0000"
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				28400,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"9B0000"
+					],
+					[
+						"lyrics",
+						"delicia macabra",
+						"9B0000"
+					]
+				]
+			],
+			[
+				29200,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				30400,
+				[
+					[
+						"lyrics",
+						"¡En la noche!",
+						"9B0000"
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"9B0000"
+					]
+				]
+			],
+			[
+				30800,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				31600,
+				[
+					[
+						"Second Lyric Line",
+						"Dijimos que el mes espeluznante está aquí, \nes hora de dar una gran alegría.",
+						"787878"
+					],
+					[
+						"lyrics",
+						"BA-HA!",
+						"9B0000"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"lyrics",
+						"Dijimos que el mes espeluznante está aquí,\n es hora de dar una gran alegría.",
+						"787878"
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"787878"
+					]
+				]
+			],
+			[
+				34800,
+				[
+					[
+						"lyrics",
+						"A-HA!",
+						"787878"
+					]
+				]
+			],
+			[
+				35200,
+				[
+					[
+						"lyrics",
+						"El mes espeluznante está aquí, es hora de aumentar el miedo",
+						"9B0000"
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"lyrics",
+						"BA-HA!",
+						"9B0000"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"lyrics",
+						"JUEGA JUEGOS DE MIEDO y PELÍCULAS DE TERROR",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"lyrics",
+						"LOS DISFRACES CAMBIAN COMO MAGIA, ¡SÍ!",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"lyrics",
+						"HECHIZOS, RITUALES Y TRUCOS MALVADOS",
+						"9B0000"
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"lyrics",
+						"¡SÓLO QUIERO CAUSAR ALGUNOS ESTRAGOS, SÍ!",
+						"9B0000"
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Second Lyric Line",
+						"Acechando esta noche",
+						"787878"
+					]
+				]
+			],
+			[
+				45200,
+				[
+					[
+						"lyrics",
+						"Acechando esta noche",
+						"787878"
+					],
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				46400,
+				[
+					[
+						"Clear lyrics",
+						"FF7B2F",
+						""
+					],
+					[
+						"lyrics",
+						"Siente el susto",
+						"787878"
+					]
+				]
+			],
+			[
+				46800,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				47400,
+				[
+					[
+						"lyrics",
+						"Porque es un robo de dulces",
+						"787878"
+					],
+					[
+						"Clear lyrics",
+						"FF7B2F",
+						""
+					]
+				]
+			],
+			[
+				48400,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				49600,
+				[
+					[
+						"Clear lyrics",
+						"FF7B2F",
+						""
+					],
+					[
+						"lyrics",
+						"¡Toma un mordisco!",
+						"787878"
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				50800,
+				[
+					[
+						"Clear lyrics",
+						"FF7B2F",
+						""
+					],
+					[
+						"lyrics",
+						"¿Quién apagó la luz?",
+						"9B0000"
+					]
+				]
+			],
+			[
+				51600,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"9B0000"
+					],
+					[
+						"lyrics",
+						"Siente el susto",
+						"9B0000"
+					]
+				]
+			],
+			[
+				53200,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				54000,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"9B0000"
+					],
+					[
+						"lyrics",
+						"delicia macabra",
+						"9B0000"
+					]
+				]
+			],
+			[
+				54800,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"lyrics",
+						"¡En la noche!",
+						"9B0000"
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"9B0000"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Zoom Camera",
+						"-0.05",
+						"6"
+					],
+					[
+						"Clear lyrics",
+						"9B0000",
+						""
+					],
+					[
+						"lyrics",
+						"Mira a las estrellas",
+						"787878"
+					],
+					[
+						"South Note Float",
+						"",
+						""
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"9B0000"
+					],
+					[
+						"Camera Target",
+						"center-lock",
+						"6"
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"lyrics",
+						"En lo alto verás lejos",
+						"787878"
+					]
+				]
+			],
+			[
+				60800,
+				[
+					[
+						"lyrics",
+						"Son tan fascinantes",
+						"787878"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"lyrics",
+						"Mientras bailamos espeluznantes",
+						"787878"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"lyrics",
+						"Tan extraño",
+						"9B0000"
+					]
+				]
+			],
+			[
+				65600,
+				[
+					[
+						"lyrics",
+						"Pero no llegarás muy lejos",
+						"9B0000"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"lyrics",
+						"Males que estamos encantando",
+						"9B0000"
+					]
+				]
+			],
+			[
+				68800,
+				[
+					[
+						"lyrics",
+						"Teme a los malvados que cantan",
+						"9B0000"
+					],
+					[
+						"Second Lyric Line",
+						"(Wo~ah)",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Clear lyrics",
+						"FF7B2F",
+						""
+					],
+					[
+						"lyrics",
+						"Caramelos y fantasmas para todos",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				71800,
+				[
+					[
+						"lyrics",
+						"¡Es la mejor época del otoño!",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				73600,
+				[
+					[
+						"lyrics",
+						"Aunque los dos podemos ser pequeños",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"lyrics",
+						"¡Ganaremos en esta espeluznante pelea!",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				76600,
+				[
+					[
+						"lyrics",
+						"Ambos intentan luchar contra ello.",
+						"9B0000"
+					]
+				]
+			],
+			[
+				78200,
+				[
+					[
+						"lyrics",
+						"Parece que no puedes luchar contra ello",
+						"9B0000"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"lyrics",
+						"Pareciendo un poco suave",
+						"9B0000"
+					]
+				]
+			],
+			[
+				81400,
+				[
+					[
+						"lyrics",
+						"Pero ahora debes asumir el costo.",
+						"9B0000"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Clear lyrics",
+						"9B0000",
+						""
+					]
+				]
+			],
+			[
+				84800,
+				[
+					[
+						"South Note Float",
+						"",
+						""
+					],
+					[
+						"Camera Target",
+						"dad",
+						"1.5"
+					],
+					[
+						"Zoom Camera",
+						"0.05",
+						"1.5"
+					],
+					[
+						"lyrics",
+						"El mes espeluznante está aquí, \nes hora de dar una gran alegría",
+						"787878"
+					]
+				]
+			],
+			[
+				87600,
+				[
+					[
+						"lyrics",
+						"A-HA!",
+						"787878"
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"lyrics",
+						"El mes espeluznante está aquí,\n es hora de aumentar el miedo",
+						"9B0000"
+					]
+				]
+			],
+			[
+				90800,
+				[
+					[
+						"lyrics",
+						"BA-HA!",
+						"9B0000"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"lyrics",
+						"Ahora es el momento de truco o trato",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				92800,
+				[
+					[
+						"lyrics",
+						"Muchos dulces nuevos para comer, ¡SÍ!",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				94400,
+				[
+					[
+						"lyrics",
+						"Ahora que es el momento de truco o trato",
+						"9B0000"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"lyrics",
+						"¡LOS MONSTRUOS ESTÁN CAZANDO PARA COMER!",
+						"9B0000"
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Second Lyric Line",
+						"Acechando esta noche",
+						"787878"
+					]
+				]
+			],
+			[
+				98000,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				99200,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"9B0000"
+					],
+					[
+						"lyrics",
+						"siente el susto",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"lyrics",
+						"Porque es un robo de dulces",
+						"787878"
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"9B0000"
+					]
+				]
+			],
+			[
+				101200,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"9B0000"
+					],
+					[
+						"lyrics",
+						"¡Toma un mordisco!",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				102800,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"9B0000"
+					]
+				]
+			],
+			[
+				103600,
+				[
+					[
+						"lyrics",
+						"¿Quién apagó la luz?",
+						"9B0000"
+					],
+					[
+						"Second Lyric Line",
+						"A-HA!",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"787878"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"787878"
+					],
+					[
+						"lyrics",
+						"Siente el susto",
+						"9B0000"
+					]
+				]
+			],
+			[
+				106000,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"787878"
+					]
+				]
+			],
+			[
+				106800,
+				[
+					[
+						"lyrics",
+						"delicia macabra",
+						"9B0000"
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				107600,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				108800,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"787878"
+					],
+					[
+						"lyrics",
+						"¡En la noche!",
+						"9B0000"
+					]
+				]
+			],
+			[
+				109200,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				110400,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"787878"
+					],
+					[
+						"lyrics",
+						"El mes espeluznante está aquí,\n es hora de dar una gran alegría",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				113200,
+				[
+					[
+						"lyrics",
+						"A-HA!",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				113600,
+				[
+					[
+						"lyrics",
+						"El mes espeluznante está aquí,\n es hora de aumentar el miedo",
+						"9B0000"
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"lyrics",
+						"BA-HA!",
+						"9B0000"
+					]
+				]
+			],
+			[
+				116800,
+				[
+					[
+						"lyrics",
+						"Todas las noches de Halloween",
+						"787878"
+					]
+				]
+			],
+			[
+				118400,
+				[
+					[
+						"lyrics",
+						"Esta es nuestra rutina favorita.",
+						"FF7B2F"
+					]
+				]
+			],
+			[
+				119600,
+				[
+					[
+						"lyrics",
+						"YEA!",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"lyrics",
+						"Todas las noches de Halloween",
+						"9B0000"
+					]
+				]
+			],
+			[
+				121600,
+				[
+					[
+						"lyrics",
+						"Esta es nuestra rutina favorita, ¡SÍ!",
+						"9B0000"
+					]
+				]
+			],
+			[
+				123200,
+				[
+					[
+						"Fade lyrics",
+						"2",
+						""
+					]
+				]
+			]
+		]
+	}
+}

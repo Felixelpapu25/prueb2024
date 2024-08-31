@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "felixPixel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "felixPixel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "felixPixel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "felixPixel right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "idle",
+			"loop": false,
+			"name": "felixPixel idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/felixPixel",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "pixelfx",
+	"flip_x": true,
+	"healthbar_colors": [
+		156,
+		0,
+		0
+	],
+	"camera_position": [
+		170,
+		-160
+	],
+	"sing_duration": 4.20000000000001,
+	"scale": 6.00000000000001
+}
