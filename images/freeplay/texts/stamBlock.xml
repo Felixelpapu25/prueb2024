@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stamBlock.png">
+<SubTexture name="idle0000" x="0" y="0" width="141" height="53" frameX="-144" frameY="-157" frameWidth="1361" frameHeight="752" />
+<SubTexture name="idle0001" x="0" y="0" width="141" height="53" frameX="-144" frameY="-157" frameWidth="1361" frameHeight="752" />
+<SubTexture name="idle0002" x="0" y="53" width="141" height="53" frameX="-144" frameY="-157" frameWidth="1361" frameHeight="752" />
+<SubTexture name="idle0003" x="0" y="53" width="141" height="53" frameX="-144" frameY="-157" frameWidth="1361" frameHeight="752" />
+<SubTexture name="idle0004" x="141" y="0" width="141" height="53" frameX="-144" frameY="-157" frameWidth="1361" frameHeight="752" />
+<SubTexture name="idle0005" x="141" y="0" width="141" height="53" frameX="-144" frameY="-157" frameWidth="1361" frameHeight="752" />
+<SubTexture name="idle0006" x="141" y="53" width="141" height="53" frameX="-144" frameY="-158" frameWidth="1361" frameHeight="752" />
+<SubTexture name="idle0007" x="141" y="53" width="141" height="53" frameX="-144" frameY="-158" frameWidth="1361" frameHeight="752" />
+</TextureAtlas>

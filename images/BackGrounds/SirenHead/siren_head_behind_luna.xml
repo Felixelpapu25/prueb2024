@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="siren_head_behind_luna.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="siren head behind luna0000" x="0" y="0" width="907" height="2086" pivotX="-614.35" pivotY="1503.5" frameX="0" frameY="0" frameWidth="908" frameHeight="2086"/>
+	<SubTexture name="siren head behind luna0001" x="0" y="0" width="907" height="2086" frameX="0" frameY="0" frameWidth="908" frameHeight="2086"/>
+	<SubTexture name="siren head behind luna0002" x="907" y="0" width="908" height="2085" frameX="0" frameY="0" frameWidth="908" frameHeight="2086"/>
+	<SubTexture name="siren head behind luna0003" x="907" y="0" width="908" height="2085" frameX="0" frameY="0" frameWidth="908" frameHeight="2086"/>
+	<SubTexture name="siren head behind luna0004" x="1815" y="0" width="908" height="2085" frameX="0" frameY="0" frameWidth="908" frameHeight="2086"/>
+	<SubTexture name="siren head behind luna0005" x="1815" y="0" width="908" height="2085" frameX="0" frameY="0" frameWidth="908" frameHeight="2086"/>
+</TextureAtlas>
